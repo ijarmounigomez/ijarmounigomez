@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ijarmounigomez
-- 👀 I’m interested in data science and software development!
-- 🌱 I’m currently learning more about Python and R and different machine learning and data science algorithms.
-- 💞️ I’m looking to collaborate on any projects related to software development (C++, Python) and to Data Science (Python, R).
+- 👀 I’m interested in software development!
+- 🌱 I’m currently learning about C and Javascript at the moment.
 - 📫 How to reach me: ijarmounigomez@gmail.com
 
 <!---

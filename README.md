@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ijarmounigomez
-- 👀 I’m interested in software development!
+- 👀 I’m interested in software and web development!
 - 🌱 I’m currently learning about C and Javascript.
 - 📫 How to reach me: ijarmounigomez@gmail.com
